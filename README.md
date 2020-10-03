@@ -21,7 +21,7 @@ It works with any digit from 0-9 and the symbols +,-,x
 
 1. Create a virtual environment and activate:
 ```bash
-python -m venv venv
+python3 -m venv venv
 . venv/bin/activate
 ```
 
